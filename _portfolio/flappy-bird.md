@@ -6,7 +6,7 @@ excerpt: >
   <br/><img src="https://raw.githubusercontent.com/linh31072004123-blip/Flappy-Bird/62fcbe9159c8f5b351237a66660f436f65f05d76/flappybird.png" />
 collection: portfolio
 permalink: /portfolio/flappy-bird/
-date: 2025-09
+date: 2025-09-01
 ---
 
 ## Overview
