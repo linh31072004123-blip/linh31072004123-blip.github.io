@@ -25,13 +25,12 @@ Players tap/click to flap, navigating through randomly generated pipes that incr
 </video>
 
 ## Game Play
-{% raw %}
+
 <div style="display: flex; flex-wrap: wrap; gap: 12px; margin-top: 16px;">
-  <img src="/images/flappybird-start.png" alt="Start Screen" style="width: 32%; border-radius: 10px;" />
-  <img src="/images/flappybird-gameplay.png" alt="Gameplay Screen" style="width: 32%; border-radius: 10px;" />
-  <img src="/images/flappybird-end.png" alt="End Screen" style="width: 32%; border-radius: 10px;" />
+  <img src="/images/flappybird-start.png" alt="Start Screen" style="width: 32%; border-radius: 10px;">
+  <img src="/images/flappybird-gameplay.png" alt="Gameplay Screen" style="width: 32%; border-radius: 10px;">
+  <img src="/images/flappybird-end.png" alt="End Screen" style="width: 32%; border-radius: 10px;">
 </div>
-{% endraw %}
 
 ---
 
