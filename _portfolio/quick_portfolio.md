@@ -3,7 +3,6 @@ title: "Quick Portfolio (PDF)"
 excerpt: "A single-page PDF overview of my major VR, AI, and game development projects.<br/><img src='/images/quick_thumbnail.png' style='width:100%; border-radius:12px;' />"
 collection: portfolio
 permalink: /portfolio/quick-portfolio/
-date: 2099-01-01
 ---
 
 # Quick Portfolio
