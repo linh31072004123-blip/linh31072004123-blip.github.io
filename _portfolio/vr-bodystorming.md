@@ -4,7 +4,7 @@ excerpt: >
   A VR tool for spatial ideation, choreography, room composition, lighting design,
   and embodied sketching — built to explore how immersive tools shape participation
   and creativity.
-  <br /><img src="/images/vr-bodystormingthumbnail.jpg" />
+  <br /><img src="/images/thumbnail.PNG" />
 
 collection: portfolio
 permalink: /portfolio/vr-bodystorming/
