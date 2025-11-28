@@ -6,7 +6,7 @@ excerpt: >
   <br/><img src="https://raw.githubusercontent.com/linh31072004123-blip/Flappy-Bird/62fcbe9159c8f5b351237a66660f436f65f05d76/flappybird.png" />
 collection: portfolio
 permalink: /portfolio/flappy-bird/
-date: 2025-11-28
+date: 2025-09
 ---
 
 ## Overview
@@ -25,13 +25,13 @@ Players tap/click to flap, navigating through randomly generated pipes that incr
 </video>
 
 ## Game Play
-{::nomarkdown}
+{% raw %}
 <div style="display: flex; flex-wrap: wrap; gap: 12px; margin-top: 16px;">
   <img src="/images/flappybird-start.png" alt="Start Screen" style="width: 32%; border-radius: 10px;" />
   <img src="/images/flappybird-gameplay.png" alt="Gameplay Screen" style="width: 32%; border-radius: 10px;" />
   <img src="/images/flappybird-end.png" alt="End Screen" style="width: 32%; border-radius: 10px;" />
 </div>
-{:/nomarkdown}
+{% endraw %}
 
 ---
 
