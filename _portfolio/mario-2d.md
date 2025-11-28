@@ -3,7 +3,7 @@ title: "Mario-Style 2D Platformer"
 excerpt: "A Unity-built platformer exploring physics-based jumping, hazards, level design, and responsive 2D interactions."
 collection: portfolio
 permalink: /portfolio/mario-2d/
-date: 2025-11-22
+date: 2025-10
 ## No thumbnail image to avoid copyright
 ---
 
@@ -46,9 +46,7 @@ testing timing skills, spatial awareness, and precise controls.
 
 ## 🎯 Impact
 
-This project strengthened my foundation in **2D game design and real-time systems**.  
-Rebuilding core platformer mechanics—from jump physics to hazard timing and collision logic—taught me how small timing and physics adjustments can dramatically change the feel of a game.
+This project strengthened my foundation in **2D game design and real-time systems**. Rebuilding core platformer mechanics—from jump physics to hazard timing and collision logic—taught me how small timing and physics adjustments can dramatically change the feel of a game. Iterating on level layouts helped me understand how pacing, spacing, and player skill progression affect engagement.  
 
-Iterating on level layouts helped me understand how pacing, spacing, and player skill progression affect engagement.  
 Overall, this project gave me hands-on experience building a **complete gameplay loop**, tuning difficulty, and crafting responsive moment-to-moment interactions.
 
