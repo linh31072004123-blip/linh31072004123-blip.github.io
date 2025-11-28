@@ -20,11 +20,11 @@ It is ideal for **application reviewers**, **recruiters**, and **professors** wh
 
 ## 📄 View the PDF Portfolio
 
-- 👉 **[Open PDF in new tab](/files/PHAM_LINH_PORTFOLIO.pdf)**  
-- 💾 **[Download PDF](/files/PHAM_LINH_PORTFOLIO.pdf)**  
+- 👉 **[Open PDF in new tab](/files/LINH_PHAM_PORTFOLIO.pdf)**  
+- 💾 **[Download PDF](/files/LINH_PHAM_PORTFOLIO.pdf)**  
 - 👇 **Embedded preview:** scroll to view
 
-<embed src="/files/PHAM_LINH_PORTFOLIO.pdf" 
+<embed src="/files/LINH_PHAM_PORTFOLIO.pdf" 
        type="application/pdf"
        width="100%" 
        height="900px" 
@@ -42,6 +42,6 @@ This “Quick Portfolio” is a **single-page snapshot**, giving viewers a fast 
 - how my projects connect  
 - how my skills have evolved  
 
-For deeper technical breakdowns, users can visit the individual project pages through the main **[Portfolio](/portfolio/)** menu.
+For deeper technical breakdowns, viewers can visit the individual project pages through the main **[Portfolio](/portfolio/)** menu.
 
 ---
