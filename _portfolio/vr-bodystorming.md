@@ -1,8 +1,7 @@
 ---
-title: "VR Bodystorming for Collaborative Art Installation Design"
+title: "VR Bodystorming"
 excerpt: "A VR tool for spatial ideation, choreography, room composition, lighting design, and embodied sketching — built to explore how immersive tools shape participation and creativity."
 collection: portfolio
-permalink: /portfolio/vr-bodystorming/
 date: 2025-11-28
 image:
   path: /images/vr-bodystormingthumbnail.jpg
