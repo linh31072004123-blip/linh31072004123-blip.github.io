@@ -21,7 +21,7 @@ The project blends **mobile-style UX**, **3D object management**, and **lightwei
 ## 🎥 Gameplay Demo
 
 <video width="100%" controls>
-  <source src="/files/tilemaster-3d.mov" type="video/mp4">
+  <source src="/files/tilemaster-3d.mov" type="video/quicktime">
   Your browser does not support the video tag.
 </video>
 
@@ -51,8 +51,7 @@ The project blends **mobile-style UX**, **3D object management**, and **lightwei
 
 ## 🔗 GitHub Repository
 
-👉 *Add the link here once the repo is set:*  
-`https://github.com/linh31072004123-blip/TileMaster-3D`
+https://github.com/linh31072004123-blip/Tile-Master-3D
 
 ---
 
