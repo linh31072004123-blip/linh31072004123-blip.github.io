@@ -25,11 +25,13 @@ Players tap/click to flap, navigating through randomly generated pipes that incr
 </video>
 
 ## Game Play
+{::nomarkdown}
 <div style="display: flex; flex-wrap: wrap; gap: 12px; margin-top: 16px;">
   <img src="/images/flappybird-start.png" alt="Start Screen" style="width: 32%; border-radius: 10px;" />
   <img src="/images/flappybird-gameplay.png" alt="Gameplay Screen" style="width: 32%; border-radius: 10px;" />
   <img src="/images/flappybird-end.png" alt="End Screen" style="width: 32%; border-radius: 10px;" />
 </div>
+{:/nomarkdown}
 
 ---
 
@@ -62,7 +64,17 @@ Players tap/click to flap, navigating through randomly generated pipes that incr
 
 ## 🎯 Impact
 
-Building this game strengthened my foundation in real-time interaction design.Recreating a fast-paced 2D experience forced me to think carefully about **responsiveness**, **timing**, and **feedback loops**—the same mechanics that now shape my work in VR and adaptive AI.
+Building this game strengthened my foundation in real-time interaction design.
+Recreating a fast-paced 2D experience required careful tuning of responsiveness,
+timing, and feedback loops—core elements that determine whether a
+platformer feels satisfying or frustrating.
 
-Implementing physics-based controls, procedural content, and performance-aware object pooling showed me how small technical decisions influence how players perceive challenge, flow, and fairness. These early lessons became the groundwork for my advanced Unity projects, including immersive VR systems and AI-driven
-adaptive interactions where user agency and interpretability matter just as much as technical performance.
+Implementing physics-based controls, procedural pipe generation, and
+performance-aware object pooling taught me how subtle technical choices shape
+player perception of challenge, flow, and fairness. Designing,
+testing, and refining these systems helped me understand how to balance difficulty
+while keeping the gameplay readable and engaging.
+
+Overall, this project gave me hands-on experience building a complete and polished
+2D gameplay loop, laying a strong foundation for my later work in 3D interaction
+and more complex game systems.
