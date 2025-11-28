@@ -51,7 +51,7 @@ The project blends **mobile-style UX**, **3D object management**, and **lightwei
 
 ## 🔗 GitHub Repository
 
-https://github.com/linh31072004123-blip/Tile-Master-3D
+👉 [View the project on GitHub] (https://github.com/linh31072004123-blip/Tile-Master-3D)
 
 ---
 
