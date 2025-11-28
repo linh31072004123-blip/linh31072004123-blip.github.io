@@ -8,7 +8,7 @@ excerpt: >
 
 collection: portfolio
 permalink: /portfolio/vr-bodystorming/
-date: 2025-11
+date: 2025-11-20
 image:
   path: /images/vr-bodystormingthumbnail.jpg
   alt: "VR Bodystorming in VR"
