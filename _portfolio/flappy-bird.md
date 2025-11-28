@@ -21,7 +21,7 @@ Players tap/click to flap, navigating through randomly generated pipes that incr
 *(Replace this when you upload your video.)*
 
 <video width="100%" controls>
-  <source src="/files/flappybird-demo.mp4" type="video/mp4">
+  <source src="/files/flappybird-demo.mov" type="video/quicktime">
   Your browser does not support the video tag.
 </video>
 
