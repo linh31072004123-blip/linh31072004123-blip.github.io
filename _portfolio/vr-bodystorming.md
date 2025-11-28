@@ -38,7 +38,7 @@ This project was developed using **Unity (OpenXR)**, custom tool systems, gestur
   <img src="/images/vrb_1.jpg" alt="VR Bodystorming Screenshot 1" style="width: 48%; border-radius: 10px;" />
   <img src="/images/vrb_2.jpg" alt="VR Bodystorming Screenshot 2" style="width: 48%; border-radius: 10px;" />
   <img src="/images/vrb_3.jpg" alt="VR Bodystorming Screenshot 3" style="width: 48%; border-radius: 10px;" />
-  <img src="/image/vr-bodystormingthumbnail.jpg" alt="VR Bodystorming Screenshot 4" style="width: 48%; border-radius: 10px;" />
+  <img src="/images/vr-bodystormingthumbnail.jpg" alt="VR Bodystorming Screenshot 4" style="width: 48%; border-radius: 10px;" />
 </div>
 
 ---
