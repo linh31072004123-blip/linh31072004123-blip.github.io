@@ -1,6 +1,10 @@
 ---
 title: "VR Bodystorming"
-excerpt: "A VR tool for spatial ideation, choreography, room composition, lighting design, and embodied sketching — built to explore how immersive tools shape participation and creativity."
+excerpt: >
+  A VR tool for spatial ideation, choreography, room composition, lighting design,
+  and embodied sketching — built to explore how immersive tools shape participation
+  and creativity.
+  <br /><img src="/images/vr-bodystormingthumbnail.jpg" />
 collection: portfolio
 permalink: /portfolio/vr-bodystorming/
 date: 2025-11-28
