@@ -3,7 +3,7 @@ title: "Tile Master 3D"
 excerpt: "A 3D Unity puzzle game inspired by tile-matching mechanics, featuring object sorting, spatial grouping, timed challenges, and polished mobile-style interaction design.<br/><img src='/images/07980EC2-648F-45E8-A987-FA411A09A2AD.PNG' style='width:100%; border-radius:12px;' />"
 collection: portfolio
 permalink: /portfolio/tilemaster-3d/
-date: 2025-11-28
+date: 2025-11
 image:
   path: /images/07980EC2-648F-45E8-A987-FA411A09A2AD.PNG
   alt: "Tile Master 3D Thumbnail"
