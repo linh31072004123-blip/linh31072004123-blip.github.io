@@ -4,7 +4,9 @@ excerpt: >
   A VR tool for spatial ideation, choreography, room composition, lighting design,
   and embodied sketching — built to explore how immersive tools shape participation
   and creativity.
-  <br /><img src="/images/vr-bodystormingthumbnail.jpg" />
+  <div style="display:flex; justify-content:center; margin: 20px 0;">
+  <img src="/images/vr-bodystormingthumbnail.jpg" style="width:70%; border-radius:12px; box-shadow:0 4px 14px rgba(0,0,0,0.15);" />
+</div>
 collection: portfolio
 permalink: /portfolio/vr-bodystorming/
 date: 2025-11-28
@@ -36,7 +38,7 @@ This project was developed using **Unity (OpenXR)**, custom tool systems, gestur
 
 ---
 
-## 📸 Additional Images  
+## 📸 Setup and Experiment  
 
 <div style="display: flex; flex-wrap: wrap; gap: 12px; margin-top: 16px;">
   <img src="/images/vrb_1.jpg" alt="VR Bodystorming Screenshot 1" style="width: 48%; border-radius: 10px;" />
