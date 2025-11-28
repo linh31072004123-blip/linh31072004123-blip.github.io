@@ -43,6 +43,6 @@ This “Quick Portfolio” is a **single-page snapshot**, giving viewers a fast 
 - how my projects connect  
 - how my skills have evolved  
 
-For deeper technical breakdowns, viewers can visit the individual project pages through the main **[Portfolio](/portfolio/)** menu.
+For deeper technical breakdowns, visitors can visit the individual project pages through the main **[Portfolio](/portfolio/)** menu.
 
 ---
