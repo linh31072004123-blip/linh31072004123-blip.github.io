@@ -1,0 +1,64 @@
+---
+title: "Mario-Style 2D Platformer"
+excerpt: "A Unity-built 2D platformer exploring movement physics, level design, collectible systems, and hazard timing in side-scrolling environments."
+collection: portfolio
+permalink: /portfolio/mario-2d/
+date: 2025-11-22
+# No thumbnail image to avoid copyright issues
+---
+
+## Overview
+
+This project is a **2D side-scrolling platformer** inspired by classic platforming mechanics.
+Built in Unity using C#, it explores **jump physics**, **moving platforms**, **hazard timing**,  
+and **level layout design** across floating islands.
+
+The player navigates through obstacles, moving platforms, and hidden collectibles,  
+testing timing skills, spatial awareness, and precise controls.
+
+---
+
+## 🎥 Gameplay Demo
+
+<video width="100%" controls>
+  <source src="/files/mario-2d.mov" type="video/mov">
+  Your browser does not support the video tag.
+</video>
+
+---
+
+## 🧩 Key Features
+
+- **Physics-based platforming**  
+  Custom jump arcs, coyote time, and responsive air control.
+
+- **Dynamic hazards**  
+  Moving spikes, shifting platforms, and timed challenges.
+
+- **Collectible system**  
+  Coins or tokens placed throughout the level to encourage exploration and replayability.
+
+- **Camera follow system**  
+  Smooth horizontal camera tracking for side-scroll flow.
+
+- **Modular level design**  
+  Tilemap-based workflow for rapid prototyping and iteration.
+
+- **Lightweight animation pipeline**  
+  Sprite animation and state-based behaviors implemented in C# scripts.
+
+---
+
+## 🔗 GitHub Repository  
+👉 **[View the code on GitHub](https://github.com/linh31072004123-blip/Mario-2D)**  
+*(If the repo name is different, I can update this link.)*
+
+---
+
+## 🎯 Impact
+
+This project strengthened my foundation in 2D game design and real-time systems.
+Rebuilding core platformer mechanics from scratch—jump physics, hazard timing, collision handling, and level layout—taught me how tightly technical decisions shape the final feel of a game.
+Through iterative playtesting, I learned how small adjustments to gravity, acceleration, jump height, or platform spacing could completely change player flow, difficulty, and satisfaction. Implementing collectibles, camera behavior, and modular tile-based levels also helped me understand how system components interact to create a coherent gameplay experience.
+Overall, this project gave me hands-on experience with building complete gameplay loops, balancing challenge, and designing responsive, polished interactions—skills that continue to inform my broader approach to designing interactive systems.
+
