@@ -1,5 +1,5 @@
 ---
-title: "VR Bodystorming for Collaborative Art Installation Design"
+title: "VR Bodystorming"
 excerpt: "A VR tool for spatial ideation, choreography, room composition, lighting design, and embodied sketching — built to explore how immersive tools shape participation and creativity."
 collection: portfolio
 permalink: /portfolio/vr-bodystorming/
@@ -9,7 +9,7 @@ date: 2025-11-28
 <img src="/images/vr-bodystormingthumbnail.jpg" alt="VR Bodystorming Thumbnail" style="width:100%; border-radius:10px; margin-bottom:20px;" />
 
 ## Overview  
-**VR Bodystorming** is an immersive ideation tool designed to help teams explore, prototype, and communicate design ideas using their bodies inside a shared virtual environment. Inspired by bodystorming practices in HCI and performance design, this project enables users to **move, sketch, choreograph, manipulate space, and experiment with lighting** inside VR.
+**VR Bodystorming** is an immersive ideation tool designed to help teams explore, prototype, and communicate design ideas using their bodies inside a shared virtual environment. Inspired by **TiltBrush**, this project enables users to **move, sketch, choreograph, manipulate space, and experiment with lighting** inside VR.
 
 The system supports two major modes:
 
