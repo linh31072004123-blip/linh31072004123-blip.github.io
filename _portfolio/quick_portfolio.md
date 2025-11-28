@@ -1,6 +1,6 @@
 ---
 title: "Quick Portfolio (PDF)"
-excerpt: "A single-page PDF overview of my major VR, AI, and game development projects.<br/><img src='/images/quick-thumbnail.png' style='width:100%; border-radius:12px;' />"
+excerpt: "A single-page PDF overview of my major VR, AI, and game development projects.<br/><img src='/images/quick_thumbnail.png' style='width:100%; border-radius:12px;' />"
 collection: portfolio
 permalink: /portfolio/quick-portfolio/
 date: 2099-01-01
@@ -20,11 +20,11 @@ It is ideal for **application reviewers**, **recruiters**, and **professors** wh
 
 ## 📄 View the PDF Portfolio
 
-- 👉 **[Open PDF in new tab](/files/Linh-Pham-Quick-Portfolio.pdf)**  
-- 💾 **[Download PDF](/files/Linh-Pham-Quick-Portfolio.pdf)**  
+- 👉 **[Open PDF in new tab](/files/PHAM_LINH_PORTFOLIO.pdf)**  
+- 💾 **[Download PDF](/files/PHAM_LINH_PORTFOLIO.pdf)**  
 - 👇 **Embedded preview:** scroll to view
 
-<embed src="/files/Linh-Pham-Quick-Portfolio.pdf" 
+<embed src="/files/PHAM_LINH_PORTFOLIO.pdf" 
        type="application/pdf"
        width="100%" 
        height="900px" 
