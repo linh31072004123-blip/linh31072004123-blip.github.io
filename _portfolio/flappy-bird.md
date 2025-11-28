@@ -17,13 +17,19 @@ Players tap/click to flap, navigating through randomly generated pipes that incr
 
 ---
 
-## 🎮 Demo Video  
-*(Replace this when you upload your video.)*
+## 🎮 Demo Video
 
 <video width="100%" controls>
   <source src="/files/flappybird-demo.mov" type="video/quicktime">
   Your browser does not support the video tag.
 </video>
+
+## Game Play
+<div style="display: flex; flex-wrap: wrap; gap: 12px; margin-top: 16px;">
+  <img src="/images/flappybird-start.png" alt="Start Screen" style="width: 32%; border-radius: 10px;" />
+  <img src="/images/flappybird-gameplay.png" alt="Gameplay Screen" style="width: 32%; border-radius: 10px;" />
+  <img src="/images/flappybird-end.png" alt="End Screen" style="width: 32%; border-radius: 10px;" />
+</div>
 
 ---
 
