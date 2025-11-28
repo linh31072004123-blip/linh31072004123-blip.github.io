@@ -3,7 +3,7 @@ title: "Mario-Style 2D Platformer"
 excerpt: "A Unity-built platformer exploring physics-based jumping, hazards, level design, and responsive 2D interactions."
 collection: portfolio
 permalink: /portfolio/mario-2d/
-date: 2025-10
+date: 2025-10-01
 ## No thumbnail image to avoid copyright
 ---
 
