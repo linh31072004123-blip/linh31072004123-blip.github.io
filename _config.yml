@@ -23,7 +23,7 @@ repository               : "linh31072004123-blip/linh31072004123-blip.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Linh Pham"
   pronouns         : "she/her"  
   bio              : "Undergraduate researcher in adaptive AI, VR, and HCI at Duke Kunshan & Duke Universit"
