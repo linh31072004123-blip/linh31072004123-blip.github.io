@@ -1,152 +1,162 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
-    "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "name": "Linh Pham",
+    "email": "lkp27@duke.edu",
+    "website": "https://linh31072004123-blip.github.io",
+    "summary": "Undergraduate researcher in adaptive AI, VR, and HCI at Duke Kunshan & Duke University. My work focuses on trust, explainability, and user understanding in immersive AI systems.",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
+      "city": "Durham & Kunshan",
+      "countryCode": "US/CN",
       "region": ""
     },
     "profiles": [
       {
-        "network": "Google Scholar",
-        "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-      },
-      {
         "network": "ORCID",
         "username": "",
-        "url": "https://orcid.org/yourorcidurl"
+        "url": "https://orcid.org/"
       },
       {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "linh31072004123-blip",
+        "url": "https://github.com/linh31072004123-blip"
       }
     ]
   },
-  "work": [],
+
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
-      "gpa": null,
-      "courses": []
+      "institution": "Duke Kunshan University & Duke University",
+      "area": "Dual B.S. in Computer Science and Interdisciplinary Studies (Computation & Design; Computer Science)",
+      "studyType": "Undergraduate Dual-Degree",
+      "startDate": "2022-08",
+      "endDate": "2026-05",
+      "highlights": [
+        "Bachelor thesis: Trust and Reliability in Sketch-Based AI Systems for VR.",
+        "Selected coursework: Probability & Statistics, Algorithms, Modeling & Predicting, Computer Organization, Discrete Math."
+      ]
     }
   ],
-  "skills": [],
-  "languages": [],
-  "interests": [],
-  "references": [],
-  "publications": [
+
+  "work": [
     {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "https://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
+      "name": "Crimson Education",
+      "position": "Capstone Project Advisor",
+      "location": "Remote",
+      "startDate": "2024-05",
+      "endDate": "2025-10",
+      "highlights": [
+        "Mentored 15+ high school students across APAC on research and technical projects.",
+        "Guided ideation, prototyping, and user research; helped students produce apps, VR demos, and design portfolios."
+      ]
     },
     {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "https://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
+      "name": "Duke Kunshan University",
+      "position": "UI/UX Designer – Campus Connect",
+      "location": "Kunshan, China",
+      "startDate": "2024-06",
+      "endDate": "2025-03",
+      "highlights": [
+        "Designed the full Campus Connect platform interface in Figma.",
+        "Led user testing sessions with 100+ DKU students.",
+        "Improved navigation flows and assisted rollout of features including Rate My Professor."
+      ]
     }
   ],
-  "presentations": [
+
+  "research": [
     {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
-      "description": ""
+      "name": "Trust & Reliability in Sketch-Based AI Systems (VR)",
+      "position": "Undergraduate Researcher",
+      "location": "Duke Kunshan University",
+      "startDate": "2025-08",
+      "endDate": "Present",
+      "highlights": [
+        "Built a VR sketching environment tracking hand trajectory, pauses, speed, and stroke patterns.",
+        "Integrated Gemini API with behavioral features to generate personality feedback.",
+        "Designed user studies using trust scales and feedback stability manipulation."
+      ]
     },
     {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
-      "description": ""
+      "name": "VR Bodystorming Tool for Collaborative Design",
+      "position": "Summer Research Scholar (SRS)",
+      "location": "Duke Kunshan University",
+      "startDate": "2025-06",
+      "endDate": "Present",
+      "highlights": [
+        "Developing a multi-user VR prototyping system for spatial ideation.",
+        "Created UI layouts, icons, and modular 3D props.",
+        "Improved interaction responsiveness and reduced frame instability."
+      ]
     },
     {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
-      "description": ""
+      "name": "iRow VR Exergame",
+      "position": "Research Assistant",
+      "location": "Duke Kunshan University",
+      "startDate": "2025-03",
+      "endDate": "2025-11",
+      "highlights": [
+        "Worked on biometric-driven VR rowing with adaptive music and pacing cues.",
+        "Conducted pilot usability study evaluating engagement and safety.",
+        "Analyzed user interpretation of adaptive AI behavior."
+      ]
     },
     {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
-      "description": ""
+      "name": "GRIPS Program – Big Data & Networking Lab",
+      "position": "Scientist Research Intern",
+      "location": "Fudan University",
+      "startDate": "2025-06",
+      "endDate": "2025-07",
+      "highlights": [
+        "Fine-tuned Qwen2.5-1.5B with LoRA for financial QA using HuggingFace SFT Trainer.",
+        "Improved accuracy by ~25% and reduced hallucinations by ~30%.",
+        "Reviewed Transformer architectures (BERT, GPT) and attention mechanisms."
+      ]
+    },
+    {
+      "name": "VR-HEAL: VR Training for Catheter Placement",
+      "position": "Research Assistant",
+      "location": "Duke Bass Connections",
+      "startDate": "2024-08",
+      "endDate": "2024-12",
+      "highlights": [
+        "Built VR catheter placement simulation with haptic interactions.",
+        "Developed scenario-authoring tools for instructors.",
+        "Optimized environment geometry and lighting for smooth performance."
+      ]
     }
   ],
-  "teaching": [
+
+  "volunteer": [
     {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
-      "description": ""
+      "organization": "Duke Kunshan University",
+      "position": "Resident Assistant",
+      "startDate": "2025-08",
+      "endDate": "Present",
+      "highlights": [
+        "Supports 50+ residents with wellness, conflict mediation, and emergency response."
+      ]
     },
     {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
-      "description": ""
-    }
-  ],
-  "portfolio": [
+      "organization": "DKU Vybe Varsity Dance Team",
+      "position": "Co-Captain",
+      "startDate": "2022-01",
+      "endDate": "Present",
+      "highlights": [
+        "Directed practices; choreographed and performed for >1000 attendees.",
+        "2nd Place – Pom-Pom (Youth Open B), 2025 China Yangtze River Delta Cheer Dance Competition."
+      ]
+    },
     {
-      "name": "Portfolio item number 1",
-      "category": "portfolio",
-      "date": "",
-      "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+      "organization": "DKU House Council (Duke)",
+      "position": "Vice President / Treasurer",
+      "startDate": "2024-09",
+      "endDate": "2024-12",
+      "highlights": [
+        "Managed events and budget for ~400 DKU students studying at Duke.",
+        "Led community building and wellness programming."
+      ]
     }
   ]
 }
