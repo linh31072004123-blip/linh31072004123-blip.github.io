@@ -25,3 +25,30 @@ I’m someone who learns by making, and I enjoy collaborating, sharing ideas, an
 
 - **VR and Game Environments**  
   Using immersive and playful settings as spaces to prototype and study interaction.
+
+
+## Skills
+
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 16px; margin-top: 1rem;">
+
+  <div style="border:1px solid #ddd; padding:12px; border-radius:8px;">
+    <strong>Programming</strong><br>
+    Python, Java, C#
+  </div>
+
+  <div style="border:1px solid #ddd; padding:12px; border-radius:8px;">
+    <strong>Game & XR Dev</strong><br>
+    Unity, XR Interaction Toolkit, DoTween, ProBuilder
+  </div>
+
+  <div style="border:1px solid #ddd; padding:12px; border-radius:8px;">
+    <strong>Design</strong><br>
+    Figma, UI/UX, Prototyping
+  </div>
+
+  <div style="border:1px solid #ddd; padding:12px; border-radius:8px;">
+    <strong>AI / ML</strong><br>
+    PyTorch, HuggingFace, LoRA
+  </div>
+
+</div>
