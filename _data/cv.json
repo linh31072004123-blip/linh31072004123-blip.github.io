@@ -32,6 +32,8 @@
       "studyType": "Undergraduate Dual-Degree",
       "startDate": "2022-08",
       "endDate": "2026-05",
+      "gpa": null,
+      "courses": [],
       "highlights": [
         "Bachelor thesis: Trust and Reliability in Sketch-Based AI Systems for VR.",
         "Selected coursework: Probability & Statistics, Algorithms, Modeling & Predicting, Computer Organization, Discrete Math."
@@ -107,46 +109,79 @@
     }
   ],
 
-  "work": [],
-
-  "volunteer": [
+  "work": [
     {
-      "organization": "Duke Kunshan University",
+      "company": "Duke Kunshan University",
       "position": "Resident Assistant",
+      "location": "Kunshan, China",
       "startDate": "2025-08",
       "endDate": "Present",
+      "summary": "",
       "highlights": [
-        "Supports 50+ residents with wellness, conflict mediation, and emergency response."
+        "Supports 50+ residents through wellness check-ins, mediation, and crisis response.",
+        "Coordinates communication between residents and Residence Life staff during incidents."
       ]
     },
     {
-      "organization": "DKU Vybe Varsity Dance Team",
-      "position": "Co-Captain",
-      "startDate": "2022-01",
-      "endDate": "Present",
+      "company": "Crimson Education",
+      "position": "Capstone Project Advisor",
+      "location": "Remote",
+      "startDate": "2024-05",
+      "endDate": "2025-10",
+      "summary": "",
       "highlights": [
-        "Directed practices; choreographed and performed for >1000 attendees.",
-        "2nd Place – Pom-Pom (Youth Open B), 2025 China Yangtze River Delta Cheer Dance Competition."
+        "Mentored 15+ high school students on tech/design and research-driven Capstone Projects.",
+        "Guided students through problem framing, prototyping, and user research for portfolios."
       ]
     },
     {
-      "organization": "DKU House Council (Duke)",
-      "position": "Vice President / Treasurer",
-      "startDate": "2024-09",
-      "endDate": "2024-12",
+      "company": "Duke Kunshan University",
+      "position": "UI/UX Designer – Campus Connect",
+      "location": "Kunshan, China",
+      "startDate": "2024-06",
+      "endDate": "2025-03",
+      "summary": "",
       "highlights": [
-        "Managed events and budget for ~400 DKU students studying at Duke.",
-        "Led community building and wellness programming."
+        "Designed the Campus Connect web interface in Figma.",
+        "Led usability testing with 100+ DKU students and iterated on navigation and key features."
       ]
     }
   ],
 
+  "leadership": [
+    {
+      "company": "DKU Vybe Varsity Dance Team",
+      "position": "Co-Captain",
+      "location": "Duke Kunshan University",
+      "startDate": "2022-01",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": [
+        "Directed practices; choreographed and performed for >1000 attendees across campus events.",
+        "2nd Place – Pom-Pom (Youth Open B), 2025 China Yangtze River Delta Cheer Dance Competition."
+      ]
+    },
+    {
+      "company": "DKU House Council (Duke)",
+      "position": "Vice President / Treasurer",
+      "location": "Duke University, Durham, NC",
+      "startDate": "2024-09",
+      "endDate": "2024-12",
+      "summary": "",
+      "highlights": [
+        "Managed events and budget for ~400 DKU students studying at Duke.",
+        "Led community building and wellness programming bridging Duke and DKU students."
+      ]
+    }
+  ],
+
+  "skills": [],
   "publications": [],
   "presentations": [],
   "teaching": [],
-  "skills": [],
   "languages": [],
   "interests": [],
   "references": []
 }
+
 
