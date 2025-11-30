@@ -95,6 +95,38 @@
     </ul>
   </div>
   {% endif %}
+
+  {% if cv.research and cv.research.size > 0 %}
+  <!-- Research Experience -->
+  <div class="cv-section">
+    <h2>Research Experience</h2>
+    <ul class="cv-list">
+      {% for research in cv.research %}
+      <li class="cv-item">
+        <div class="cv-item-header">
+          <div class="cv-item-title">{{ research.position }}</div>
+          <div class="cv-item-date">
+            {{ research.startDate }}{% if research.endDate %} - {{ research.endDate }}{% endif %}
+          </div>
+        </div>
+        <div class="cv-item-content">
+          <div class="cv-item-subtitle">{{ research.company }}</div>
+          {% if research.summary %}
+          <div class="cv-item-detail">{{ research.summary }}</div>
+          {% endif %}
+          {% if research.highlights and research.highlights.size > 0 %}
+          <ul class="cv-highlights">
+            {% for highlight in research.highlights %}
+            <li>{{ highlight }}</li>
+            {% endfor %}
+          </ul>
+          {% endif %}
+        </div>
+      </li>
+      {% endfor %}
+    </ul>
+  </div>
+{% endif %}
   
   {% if cv.work.size > 0 %}
   <!-- Work Experience -->
